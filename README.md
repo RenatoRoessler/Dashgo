@@ -20,7 +20,8 @@
  - React context api
     
     ## Screens 💻
-    <h4>Home</h4>
+<p align="center">
+ <h4>Home</h4>
 ![dashboard](https://user-images.githubusercontent.com/29213190/138558178-35a76b5c-fb0a-495f-a4cf-ad54285b501d.png)
     
  <h4>Login</h4>
@@ -31,11 +32,21 @@
     
 <h4>Users table</h4>
 ![list_normal](https://user-images.githubusercontent.com/29213190/138558241-5275fd31-80fb-411e-84aa-60970f4af501.png)
+    
+ ## Responsive 📱
+<p align="center">
+<h4>Home</h4>    
+![dashboard_responsivo](https://user-images.githubusercontent.com/29213190/138558527-573a7432-840a-4242-989c-ef28c0b69a04.png)
 
+<h4>Create new User form</h4>   
+![cadastro_resp](https://user-images.githubusercontent.com/29213190/138558541-13bae447-f197-4712-b8b6-e8d2fae0259d.png)
 
+ <h4>Users table</h4>  
+![useres_resp](https://user-images.githubusercontent.com/29213190/138558557-3e449da4-f47d-4c7d-bd5b-cd1e127c5232.png)
 
+   <h4>menu</h4>    
+ ![sandowish](https://user-images.githubusercontent.com/29213190/138558566-99a9a9fb-77e5-4890-a7c2-797aa095e989.png)
 
- 
  ## Contact ✉
   - <a target="_blank" href="https://www.linkedin.com/in/renato-roessler-9b0b786b/">LinkedIn</a>
   - <a target="_blank" href="mailto:renatoroessler@gmail.com">E-mail</a>
