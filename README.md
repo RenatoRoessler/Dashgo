@@ -36,4 +36,6 @@
 
 
  
-    
+ ## Contact ✉
+  - <a target="_blank" href="https://www.linkedin.com/in/renato-roessler-9b0b786b/">LinkedIn</a>
+  - <a target="_blank" href="mailto:renatoroessler@gmail.com">E-mail</a>
