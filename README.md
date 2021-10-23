@@ -47,6 +47,7 @@
    <h4>menu</h4>    
  ![sandowish](https://user-images.githubusercontent.com/29213190/138558566-99a9a9fb-77e5-4890-a7c2-797aa095e989.png)
 
- ## Contact ✉
-  - <a target="_blank" href="https://www.linkedin.com/in/renato-roessler-9b0b786b/">LinkedIn</a>
-  - <a target="_blank" href="mailto:renatoroessler@gmail.com">E-mail</a>
+## Contact ✉
+
+- <a target="_blank" href="https://www.linkedin.com/in/renato-roessler-9b0b786b/">LinkedIn</a>
+- <a target="_blank" href="mailto:renatoroessler@gmail.com">E-mail</a>
