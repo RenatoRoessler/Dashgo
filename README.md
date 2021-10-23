@@ -8,5 +8,15 @@
   <a href="https://github.com/renatoroessler">
   <a>
 </p>
+    
+  ## Description
+- Dashboard application created in Ignite Bootcamp
+    
+  ## Features 🚀
+ - Typescript
+ - React + Next.js
+ - React hook form
+ - Styling using Chakra-ui
+ - React context api
  
     
